@@ -54,4 +54,4 @@ elif page == "결과 한눈에 보기":
         st.pyplot(fig2)
     else:
         st.info("아직 공부 계획이 없습니다.")
-      
+
